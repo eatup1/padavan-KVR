@@ -96,5 +96,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: Padavan-KVR-NEWIFI3
+        name: Padavan-KVR-ZTE_E8820S
         path: /opt/images
