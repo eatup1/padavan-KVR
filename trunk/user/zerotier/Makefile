@@ -1,4 +1,4 @@
-SRC_NAME = zerotier-one
+SRC_NAME = ZeroTierOne-1.14.0
 THISDIR = $(shell pwd)
 FLAGS := DEFS=""
 CFLAGS := -Os -ffunction-sections -fdata-sections
